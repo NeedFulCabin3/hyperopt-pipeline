@@ -1,6 +1,6 @@
 # Hyperopt Pipeline
 
-Automated Model Selection & Nested Cross-Validation Engine
+> Automated Model Selection & Nested Cross-Validation Engine
 
 ## Overview
 
